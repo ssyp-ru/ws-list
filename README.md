@@ -6,6 +6,24 @@
 
 *Ответственный за поддержание этого списка в актуальном виде - Климов Николай.*
 
+* [2019](2019.md)
+    * [Мастерская 1. Хороший Git (Git is Good)](https://github.com/ssyp-ru/ssyp19-ws01)
+    * [Мастерская 2. Программируем на MIDI](https://github.com/ssyp-ru/ssyp19-ws02)
+    * [Мастерская 3. Классовый C или 22 упавших теста](https://github.com/ssyp-ru/ssyp19-ws03)
+    * [Мастерская 4. Строим экспертную систему](https://github.com/ssyp-ru/ssyp19-ws04)
+    * [Мастерская 5. Геймдев, который мы заслужили](https://github.com/ssyp-ru/ssyp19-ws05)
+    * [Мастерская 6. Молодые C-ньйоры](https://github.com/ssyp-ru/ssyp19-ws06)
+    * [Мастерская 7. ГРАФство](https://github.com/ssyp-ru/ssyp19-ws07)
+    * [Мастерская 8. Neverending (Processing) Summer](https://github.com/ssyp-ru/ssyp19-ws08)
+    * [Мастерская 9. Играя, учимся](https://github.com/ssyp-ru/ssyp19-ws09)
+    * [Мастерская 10. Исполнитель черепашьей графики](https://github.com/ssyp-ru/ssyp19-ws10)
+    * [Мастерская 11. Трёхмерная реконструкция](https://github.com/ssyp-ru/ssyp19-ws11)
+    * [Мастерская 12. Изучаем C#](https://github.com/ssyp-ru/ssyp19-ws12)
+    * [Мастерская 13. Геологическое программирование](https://github.com/ssyp-ru/ssyp19-ws13)
+    * [Мастерская 14. А, или Первые шаги](https://github.com/ssyp-ru/ssyp19-ws14)
+    * [Мастерская 15. Генетические алгоритмы](https://github.com/ssyp-ru/ssyp19-ws15)
+    * [Мастерская 16. Мечтают ли деревья о кодировках](https://github.com/ssyp-ru/ssyp19-ws16)
+
 * [2018](2018.md)
     * [Мастерская №1  "Real Game". Мастер: Климов Николай](https://github.com/ssyp-ru/ssyp18-ws01)
     * [Мастерская №2  "SYPHack". Мастер: Дмитрий Горбунов](https://github.com/ssyp-ru/ssyp18-ws02)
