@@ -1,0 +1,159 @@
+[submodule "submodules/ssyp22/ws02"]
+	path = submodules/ssyp22/ws02
+	url = https://github.com/ssyp-ru/ssyp22-ws02
+[submodule "submodules/ssyp21/ws01"]
+	path = submodules/ssyp21/ws01
+	url = https://github.com/ssyp-ru/ssyp21-ws01
+[submodule "submodules/ssyp20/ws01"]
+	path = submodules/ssyp20/ws01
+	url = https://github.com/ssyp-ru/ssyp20-ws01
+[submodule "submodules/ssyp20/ws03"]
+	path = submodules/ssyp20/ws03
+	url = https://github.com/ssyp-ru/ssyp20-ws03
+[submodule "submodules/ssyp20/ws06"]
+	path = submodules/ssyp20/ws06
+	url = https://github.com/ssyp-ru/ssyp20-ws06
+[submodule "submodules/ssyp20/ws07"]
+	path = submodules/ssyp20/ws07
+	url = https://github.com/ssyp-ru/ssyp20-ws07
+[submodule "submodules/ssyp20/ws09"]
+	path = submodules/ssyp20/ws09
+	url = https://github.com/ssyp-ru/ssyp20-ws09
+[submodule "submodules/ssyp19/ws01"]
+	path = submodules/ssyp19/ws01
+	url = https://github.com/ssyp-ru/ssyp19-ws01
+[submodule "submodules/ssyp19/ws02"]
+	path = submodules/ssyp19/ws02
+	url = https://github.com/ssyp-ru/ssyp19-ws02
+[submodule "submodules/ssyp19/ws03"]
+	path = submodules/ssyp19/ws03
+	url = https://github.com/ssyp-ru/ssyp19-ws03
+[submodule "submodules/ssyp19/ws04"]
+	path = submodules/ssyp19/ws04
+	url = https://github.com/ssyp-ru/ssyp19-ws04
+[submodule "submodules/ssyp19/ws05"]
+	path = submodules/ssyp19/ws05
+	url = https://github.com/ssyp-ru/ssyp19-ws05
+[submodule "submodules/ssyp19/ws06"]
+	path = submodules/ssyp19/ws06
+	url = https://github.com/ssyp-ru/ssyp19-ws06
+[submodule "submodules/ssyp19/ws07"]
+	path = submodules/ssyp19/ws07
+	url = https://github.com/ssyp-ru/ssyp19-ws07
+[submodule "submodules/ssyp19/ws08"]
+	path = submodules/ssyp19/ws08
+	url = https://github.com/ssyp-ru/ssyp19-ws08
+[submodule "submodules/ssyp19/ws09"]
+	path = submodules/ssyp19/ws09
+	url = https://github.com/ssyp-ru/ssyp19-ws09
+[submodule "submodules/ssyp19/ws10"]
+	path = submodules/ssyp19/ws10
+	url = https://github.com/ssyp-ru/ssyp19-ws10
+[submodule "submodules/ssyp19/ws11"]
+	path = submodules/ssyp19/ws11
+	url = https://github.com/ssyp-ru/ssyp19-ws11
+[submodule "submodules/ssyp19/ws12"]
+	path = submodules/ssyp19/ws12-1
+	url = https://github.com/ssyp-ru/ssyp19-ws12-1
+[submodule "submodules/ssyp19/ws13"]
+	path = submodules/ssyp19/ws13
+	url = https://github.com/ssyp-ru/ssyp19-ws13
+[submodule "submodules/ssyp19/ws15"]
+	path = submodules/ssyp19/ws15
+	url = https://github.com/ssyp-ru/ssyp19-ws15
+[submodule "submodules/ssyp19/ws16"]
+	path = submodules/ssyp19/ws16
+	url = https://github.com/ssyp-ru/ssyp19-ws16
+[submodule "submodules/ssyp18/ws01"]
+	path = submodules/ssyp18/ws01
+	url = https://github.com/ssyp-ru/ssyp18-ws01
+[submodule "submodules/ssyp18/ws02"]
+	path = submodules/ssyp18/ws02
+	url = https://github.com/ssyp-ru/ssyp18-ws02
+[submodule "submodules/ssyp18/ws03"]
+	path = submodules/ssyp18/ws03
+	url = https://github.com/ssyp-ru/ssyp18-ws03
+[submodule "submodules/ssyp18/ws04"]
+	path = submodules/ssyp18/ws04
+	url = https://github.com/ssyp-ru/ssyp18-ws04
+[submodule "submodules/ssyp18/ws05"]
+	path = submodules/ssyp18/ws05
+	url = https://github.com/ssyp-ru/ssyp18-ws05
+[submodule "submodules/ssyp18/ws06"]
+	path = submodules/ssyp18/ws06
+	url = https://github.com/ssyp-ru/ssyp18-ws06
+[submodule "submodules/ssyp18/ws07"]
+	path = submodules/ssyp18/ws07
+	url = https://github.com/ssyp-ru/ssyp18-ws07
+[submodule "submodules/ssyp18/ws08"]
+	path = submodules/ssyp18/ws08
+	url = https://github.com/ssyp-ru/ssyp18-ws08
+[submodule "submodules/ssyp18/ws09"]
+	path = submodules/ssyp18/ws09
+	url = https://github.com/ssyp-ru/ssyp18-ws09
+[submodule "submodules/ssyp18/ws10"]
+	path = submodules/ssyp18/ws10
+	url = https://github.com/ssyp-ru/ssyp18-ws10
+[submodule "submodules/ssyp18/ws11"]
+	path = submodules/ssyp18/ws11
+	url = https://github.com/ssyp-ru/ssyp18-ws11
+[submodule "submodules/ssyp18/ws12"]
+	path = submodules/ssyp18/ws12
+	url = https://github.com/ssyp-ru/ssyp18-ws12
+[submodule "submodules/ssyp18/ws13"]
+	path = submodules/ssyp18/ws13
+	url = https://github.com/ssyp-ru/ssyp18-ws13
+[submodule "submodules/ssyp17/ws03"]
+	path = submodules/ssyp17/ws03
+	url = https://github.com/ssyp-ru/ssyp17-ws03
+[submodule "submodules/ssyp17/ws04"]
+	path = submodules/ssyp17/ws04
+	url = https://github.com/ssyp-ru/ssyp17-ws04
+[submodule "submodules/ssyp17/ws05"]
+	path = submodules/ssyp17/ws05
+	url = https://github.com/ssyp-ru/ssyp17-ws05
+[submodule "submodules/ssyp17/ws11"]
+	path = submodules/ssyp17/ws11
+	url = https://github.com/ssyp-ru/ssyp17-ws11
+[submodule "submodules/ssyp17/ws14"]
+	path = submodules/ssyp17/ws14
+	url = https://github.com/ssyp-ru/ssyp17-ws14
+[submodule "submodules/ssyp16/ws01"]
+	path = submodules/ssyp16/ws01
+	url = https://github.com/ssyp-ru/ssyp16-ws01
+[submodule "submodules/ssyp16/ws02"]
+	path = submodules/ssyp16/ws02
+	url = https://github.com/ssyp-ru/ssyp16-ws02
+[submodule "submodules/ssyp16/ws03"]
+	path = submodules/ssyp16/ws03
+	url = https://github.com/ssyp-ru/ssyp16-ws03
+[submodule "submodules/ssyp16/ws04"]
+	path = submodules/ssyp16/ws04
+	url = https://github.com/ssyp-ru/ssyp16-ws04
+[submodule "submodules/ssyp16/ws07"]
+	path = submodules/ssyp16/ws07
+	url = https://github.com/ssyp-ru/ssyp16-ws07
+[submodule "submodules/ssyp16/ws08"]
+	path = submodules/ssyp16/ws08
+	url = https://github.com/ssyp-ru/ssyp16-ws08
+[submodule "submodules/ssyp16/ws09"]
+	path = submodules/ssyp16/ws09
+	url = https://github.com/ssyp-ru/ssyp16-ws09
+[submodule "submodules/ssyp16/ws13"]
+	path = submodules/ssyp16/ws13
+	url = https://github.com/ssyp-ru/ssyp16-ws13
+[submodule "submodules/ssyp16/ws14"]
+	path = submodules/ssyp16/ws14
+	url = https://github.com/ssyp-ru/ssyp16-ws14
+[submodule "submodules/ssyp16/ws15"]
+	path = submodules/ssyp16/ws15
+	url = https://github.com/ssyp-ru/ssyp16-ws15
+[submodule "submodules/ssyp16/ws17"]
+	path = submodules/ssyp16/ws17
+	url = https://github.com/ssyp-ru/ssyp16-ws17
+[submodule "submodules/ssyp17/ws09"]
+	path = submodules/ssyp17/ws09
+	url = https://github.com/ssyp-ru/ssyp2017-ws09
+[submodule "submodules/ssyp19/ws12-2"]
+	path = submodules/ssyp19/ws12-2
+	url = https://github.com/ssyp-ru/ssyp19-ws12-2
