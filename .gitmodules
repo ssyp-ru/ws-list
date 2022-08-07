@@ -157,3 +157,15 @@
 [submodule "submodules/ssyp19/ws12-2"]
 	path = submodules/ssyp19/ws12-2
 	url = https://github.com/ssyp-ru/ssyp19-ws12-2
+[submodule "submodules/ssyp22/ws01"]
+	path = submodules/ssyp22/ws01
+	url = https://github.com/ssyp-ru/ssyp22-ws01
+[submodule "submodules/ssyp22/ws04"]
+	path = submodules/ssyp22/ws04
+	url = https://github.com/ssyp-ru/ssyp22-ws04
+[submodule "submodules/ssyp22/ws06"]
+	path = submodules/ssyp22/ws06
+	url = https://github.com/ssyp-ru/ssyp22-ws06
+[submodule "submodules/ssyp22/ws08"]
+	path = submodules/ssyp22/ws08
+	url = https://github.com/ssyp-ru/ssyp22-ws08
