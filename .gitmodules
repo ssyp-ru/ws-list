@@ -175,3 +175,9 @@
 [submodule "submodules/ssyp21/ws02"]
 	path = submodules/ssyp21/ws02
 	url = https://github.com/ssyp-ru/ssyp21-ws02
+[submodule "submodules/ssyp21/ws03"]
+	path = submodules/ssyp21/ws03
+	url = https://github.com/ssyp-ru/ssyp21-ws03
+[submodule "submodules/ssyp20/ws04"]
+	path = submodules/ssyp20/ws04
+	url = https://github.com/ssyp-ru/ssyp20-ws04
