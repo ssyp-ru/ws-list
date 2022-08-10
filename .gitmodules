@@ -181,3 +181,6 @@
 [submodule "submodules/ssyp20/ws04"]
 	path = submodules/ssyp20/ws04
 	url = https://github.com/ssyp-ru/ssyp20-ws04
+[submodule "submodules/ssyp22/ws03"]
+	path = submodules/ssyp22/ws03
+	url = https://github.com/ssyp-ru/ssyp22-ws03
