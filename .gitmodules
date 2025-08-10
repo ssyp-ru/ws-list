@@ -187,3 +187,60 @@
 [submodule "submodules/ssyp22/ws05"]
 	path = submodules/ssyp22/ws05
 	url = https://github.com/ssyp-ru/ssyp22-ws05
+[submodule "submodules/ssyp25/ws01"]
+	path = submodules/ssyp25/ws01
+	url = https://github.com/ssyp-ru/ssyp25-ws01
+[submodule "submodules/ssyp25/ws05"]
+	path = submodules/ssyp25/ws05
+	url = https://github.com/ssyp-ru/ssyp25-ws05
+[submodule "submodules/ssyp25/ws07"]
+	path = submodules/ssyp25/ws07
+	url = https://github.com/ssyp-ru/ssyp25-ws07
+[submodule "submodules/ssyp24/ws01"]
+	path = submodules/ssyp24/ws01
+	url = https://github.com/ssyp-ru/ssyp24-ws01
+[submodule "submodules/ssyp24/ws02"]
+	path = submodules/ssyp24/ws02
+	url = https://github.com/ssyp-ru/ssyp24-ws02
+[submodule "submodules/ssyp24/ws03"]
+	path = submodules/ssyp24/ws03
+	url = https://github.com/ssyp-ru/ssyp24-ws03
+[submodule "submodules/ssyp24/ws04"]
+	path = submodules/ssyp24/ws04
+	url = https://github.com/ssyp-ru/ssyp24-ws04
+[submodule "submodules/ssyp24/ws05"]
+	path = submodules/ssyp24/ws05
+	url = https://github.com/ssyp-ru/ssyp24-ws05
+[submodule "submodules/ssyp24/ws06"]
+	path = submodules/ssyp24/ws06
+	url = https://github.com/ssyp-ru/ssyp24-ws06
+[submodule "submodules/ssyp24/ws07"]
+	path = submodules/ssyp24/ws07
+	url = https://github.com/ssyp-ru/ssyp24-ws07
+[submodule "submodules/ssyp24/ws08"]
+	path = submodules/ssyp24/ws08
+	url = https://github.com/ssyp-ru/ssyp24-ws08
+[submodule "submodules/ssyp23/ws01"]
+	path = submodules/ssyp23/ws01
+	url = https://github.com/ssyp-ru/ssyp23-ws01
+[submodule "submodules/ssyp23/ws02"]
+	path = submodules/ssyp23/ws02
+	url = https://github.com/ssyp-ru/ssyp23-ws02
+[submodule "submodules/ssyp23/ws03"]
+	path = submodules/ssyp23/ws03
+	url = https://github.com/ssyp-ru/ssyp23-ws03
+[submodule "submodules/ssyp23/ws05"]
+	path = submodules/ssyp23/ws05
+	url = https://github.com/ssyp-ru/ssyp23-ws05
+[submodule "submodules/ssyp23/ws06"]
+	path = submodules/ssyp23/ws06
+	url = https://github.com/ssyp-ru/ssyp23-ws06
+[submodule "submodules/ssyp23/ws07"]
+	path = submodules/ssyp23/ws07
+	url = https://github.com/ssyp-ru/ssyp23-ws07
+[submodule "submodules/ssyp23/ws08"]
+	path = submodules/ssyp23/ws08
+	url = https://github.com/ssyp-ru/ssyp23-ws08
+[submodule "submodules/ssyp2017/ws09"]
+	path = submodules/ssyp2017/ws09
+	url = https://github.com/ssyp-ru/ssyp2017-ws09
