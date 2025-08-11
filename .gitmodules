@@ -82,9 +82,6 @@
 [submodule "submodules/ssyp18/ws06"]
 	path = submodules/ssyp18/ws06
 	url = https://github.com/ssyp-ru/ssyp18-ws06
-[submodule "submodules/ssyp18/ws07"]
-	path = submodules/ssyp18/ws07
-	url = https://github.com/ssyp-ru/ssyp18-ws07
 [submodule "submodules/ssyp18/ws08"]
 	path = submodules/ssyp18/ws08
 	url = https://github.com/ssyp-ru/ssyp18-ws08
@@ -190,9 +187,6 @@
 [submodule "submodules/ssyp25/ws01"]
 	path = submodules/ssyp25/ws01
 	url = https://github.com/ssyp-ru/ssyp25-ws01
-[submodule "submodules/ssyp25/ws05"]
-	path = submodules/ssyp25/ws05
-	url = https://github.com/ssyp-ru/ssyp25-ws05
 [submodule "submodules/ssyp25/ws07"]
 	path = submodules/ssyp25/ws07
 	url = https://github.com/ssyp-ru/ssyp25-ws07
@@ -247,3 +241,9 @@
 [submodule "submodules/ssyp25/ws03"]
 	path = submodules/ssyp25/ws03
 	url = https://github.com/ssyp-ru/ssyp25-ws03
+[submodule "submodules/ssyp25/ws09"]
+	path = submodules/ssyp25/ws09
+	url = https://github.com/ssyp-ru/ssyp25-ws09
+[submodule "submodules/ssyp25/ws05"]
+	path = submodules/ssyp25/ws05
+	url = https://github.com/ssyp-ru/ssyp25-ws05
