@@ -247,3 +247,6 @@
 [submodule "submodules/ssyp25/ws05"]
 	path = submodules/ssyp25/ws05
 	url = https://github.com/ssyp-ru/ssyp25-ws05
+[submodule "submodules/ssyp25/ws08"]
+	path = submodules/ssyp25/ws08
+	url = https://github.com/ssyp-ru/ssyp25-ws08
